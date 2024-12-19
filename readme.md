@@ -1,6 +1,6 @@
 # NYC Airbnb Analysis Project
 
-[**View the Project Spreadsheet**](https://docs.google.com/spreadsheets/d/1cruqiYa-G_HS8zRSs-oB_M28qCe0TqEPlJnHNfz5OJo/edit?usp=sharing)
+[**View the Project Spreadsheet**](https://drive.google.com/file/d/1Ee0GkF3AZR7fwt6MjtQJqlgCr3qxZf8O/view?usp=sharing)
 
 ## 📌 Introduction
 The NYC Airbnb Analysis Project examines data from Airbnb listings to uncover insights and trends for optimizing investments in the short-term rental market. This project focuses on identifying the most profitable neighborhoods, property types, and strategies to help investors maximize returns in the competitive NYC market.
