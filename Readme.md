@@ -21,7 +21,7 @@ This repository contains projects completed as part of the TripleTen Business In
 **Tools Used:**
 - Google Sheets for metrics calculations and reporting
 
-**Deliverables:**
+**Deliverables:**  
 - A set of business metrics to evaluate performance.
 
 ---
