@@ -10,7 +10,7 @@ The NYC Airbnb Analysis Project examines data from Airbnb listings to uncover in
 - Analyze occupancy trends and revenue potential by property type.
 - Provide actionable recommendations for investors and property owners.
 
----
+---  
 
 ## 🛠 What Was Done
 ### 🔍 Data Analysis Process
